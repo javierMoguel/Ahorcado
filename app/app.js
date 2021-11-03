@@ -1,5 +1,6 @@
 import "./checkbox.js";
 import "./ahorcado.js";
+
 new Vue({
   el: "#app",
   data: {

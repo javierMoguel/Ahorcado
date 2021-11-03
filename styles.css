@@ -1,3 +1,7 @@
-span {
+#word {
     font-size: 30px;
+}
+
+.mt-5 span {
+    font-size: 20px;
 }
